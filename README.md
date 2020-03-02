@@ -1,5 +1,5 @@
 
-## SensorArduino
+## RSSensorArduino
 Program for Arduino to send sensor data of a room environment.
 
 ### Requirements
