@@ -4,6 +4,7 @@ Program for Arduino to send sensor data of a room environment.
 
 ### Requirements
 - ArduinoJson
+  - https://github.com/bblanchon/ArduinoJson
 
 ### Parts
 - Illuminance sensor
