@@ -18,7 +18,7 @@ Program for Arduino to send sensor data of a room environment.
 ### Circuit
 ```
 [5V]-[Long]Illumi Sensor[Short]-T--[PIN A0]
-                                L-[100Ω?]--[GND]
+                                L-[200kΩ]--[GND]
 ```
 
 ```
