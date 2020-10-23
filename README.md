@@ -32,7 +32,7 @@ Program for Arduino to send sensor data of a room environment.
 ```
 
 ```
-[GND]---o [Alminium pieces(electrode)] o---[PIN 2 (PULLUP)]
+[GND]---o [Aluminium pieces(electrode)] o---[PIN 2 (PULLUP)]
 ```
 
 ### Data Format
@@ -59,7 +59,7 @@ This is only transmitted when door open state is changed.
 }
 ```
 
-`doorState` is `open` or `closed`. This value will be `open` when alminium pieces connects the circuit.
+`doorState` is `open` or `closed`. This value will be `open` when aluminium pieces connects the circuit.
 
 ### Temperature Calculation & Calibration
 Temperature can be calculated like below (`temperatureRaw` is `temperature` in json).
